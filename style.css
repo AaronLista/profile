@@ -34,9 +34,10 @@ a>img:hover {
 }
 
 .card {
-  margin: 50%;
   max-width: 50%;
-  margin: 0 auto;
+  margin: 50px auto;
+  border-radius: 20px;
+  box-shadow: 5px 5px 15px #a8a8a7;
 }
 
 .list-inline > li {
